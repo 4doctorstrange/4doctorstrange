@@ -15,8 +15,14 @@ I am an IT undergraduate at Manipal University Jaipur. I am passionate about Web
 <p><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
   
 
+<h3>My Intersts</h3>
+<p>Software Development | Web development | Competitive Programming | Open Source Contribution</p>
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=4doctorstrange&show_icons=true&theme=chartreuse-dark )
+<h3>Stats and languages</h3>
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=4doctorstrange&show_icons=true&theme=chartreuse-dark )<br>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=chartreuse-dark)]()
 
 
 <!--

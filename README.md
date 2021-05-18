@@ -7,7 +7,7 @@
 <h2> Hi there! I'm Harsh :wave:</h2>
 
 <h3>About me:</h3>
-I am an IT undergraduate student at Manipal University Jaipur. I am passionate about Web-Development and Problem-Solving . Currently I am exporing Django Rest Framework and React.
+I am an IT undergraduate at Manipal University Jaipur. I am passionate about Web-Development and Problem-Solving . Currently I am exporing Django Rest Framework and React.
 
 <h3>Technical Skills </h3>
 <p><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></p>
@@ -16,7 +16,7 @@ I am an IT undergraduate student at Manipal University Jaipur. I am passionate a
   
 
 
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=4doctorstrange&show_icons=true&theme=algolia)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=4doctorstrange&show_icons=true&theme=chartreuse-dark )
 
 
 <!--

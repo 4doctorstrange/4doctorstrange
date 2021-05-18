@@ -25,7 +25,7 @@ I am an IT undergraduate at Manipal University Jaipur. I am passionate about Web
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=4doctorstrange&show_icons=true&theme=chartreuse-dark )<br>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=chartreuse-dark)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4doctorstrange&langs_count=5&theme=chartreuse-dark)]()
 
 
 <!--

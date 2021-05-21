@@ -27,9 +27,6 @@ I am an IT undergraduate at Manipal University Jaipur. I am passionate about Web
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4doctorstrange&langs_count=5&theme=chartreuse-dark)]()
 
-![](https://komarev.com/ghpvc/?username=4doctorstrange)
-
-
 
 <!--
 

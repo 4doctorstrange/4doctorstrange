@@ -18,7 +18,7 @@ I am an IT undergraduate at Manipal University Jaipur. I am passionate about Web
 <p><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></p>
 
 
-<h3>My Intersts</h3>
+<h3>My Interests</h3>
 <p>Software Development | Web development | Competitive Programming | Open Source Contribution</p>
 
 <h3>Stats and languages</h3>
